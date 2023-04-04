@@ -11,5 +11,5 @@
 * ***all_test_testnum10.txt*** 模型在测试集上的准确率统计
 代码中的数据图片以场景编号_入侵编号_图片编号.png命名，其中原始数据集采集1-22共计22个场景，入侵编号定义为有入侵为1，无入侵为0。  
 需要注意的是，在训练基于掩码增强的模型时，需要提供与RGB图片配套的铁轨区域分割的二值图像，如下图所示:  
-<div align=center><img src="https://github.com/wc253/Few-Shot-Learning-for-Intrusion-Detection-in-Railway-Video-Surveillance/blob/main/9_1_9.png" width="400"></div>
+<div align=center><img src="https://github.com/wc253/Paddle_Few-Shot-Learning-for-Intrusion-Detection-in-Railway-Video-Surveillance/blob/main/9_1_9.png" width="400"></div>
 
